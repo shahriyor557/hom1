@@ -1,0 +1,127 @@
+.tana {
+    border: solid 1px rgb(241, 241, 245);
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.a {
+    display: flex;
+    justify-content: space-between;
+    row-gap: 40px;
+}
+
+.l {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 100px;
+    height: 70px;
+}
+
+.m {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 600px;
+    height: 70px;
+    flex-grow: 0;
+    /* border-radius: 5px; */
+}
+
+.b {
+    display: flex;
+    justify-content: space-between;
+    row-gap: 40px;
+    margin-top: 40px;
+}
+
+.ll {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 600px;
+    height: 70px;
+}
+
+.lm {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 100px;
+    height: 70px;
+}
+
+.lz {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 200px;
+    height: 70px;
+}
+
+.c {
+    display: flex;
+    justify-content: space-between;
+    /* margin: 40px;  */
+    margin-top: 40px;
+}
+
+.li {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 100px;
+    height: 70px;
+}
+
+.lo {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 200px;
+    height: 70px;
+
+}
+
+.lp {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 600px;
+    height: 70px;
+}
+
+.k {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.lq {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 200px;
+    height: 70px;
+}
+
+.lw {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 100px;
+    height: 70px;
+}
+
+.le {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 200px;
+    height: 70px;
+}
+
+.lr {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 100px;
+    height: 70px;
+}
+
+.lt {
+    border: solid 5px black;
+    background-color: greenyellow;
+    width: 200px;
+    height: 70px;
+}
